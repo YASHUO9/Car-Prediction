@@ -1,2 +1,7 @@
 pathlib
 os
+pandas
+numpy
+seaborn
+scikit-learn
+matplotlib
